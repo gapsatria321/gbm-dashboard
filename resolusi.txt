@@ -1,0 +1,5 @@
+GBM 1 resolusi:
+- Membuat platform untuk menyimpan data tender dan data pendukung tender (kualifikasi perusahaan)
+- Konsisten menginput data tender di aplikasi
+- Konsisten melakukan update data kualifikasi perusahaan untuk mendukung proses tender
+- Membuat forum diskusi 
