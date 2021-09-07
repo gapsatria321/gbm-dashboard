@@ -3,3 +3,5 @@ GBM 1 resolusi:
 - Konsisten menginput data tender di aplikasi
 - Konsisten melakukan update data kualifikasi perusahaan untuk mendukung proses tender
 - Membuat forum diskusi 
+- Membuat web
+- Kolaborasi dengan unit lain
