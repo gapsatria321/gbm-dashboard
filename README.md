@@ -1,2 +1,2 @@
 # gbm-dashboard
-Repository untuk menyimpan data GBM
+Repository untuk menyimpan dan menampilkan data GBM
