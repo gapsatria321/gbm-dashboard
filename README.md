@@ -1,2 +1,2 @@
-# gbm-repo
+# gbm-dashboard
 Repository untuk menyimpan data GBM
